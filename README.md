@@ -6,7 +6,7 @@
 <li> <a href="#SP"> How does it work? </a> </li>
 <li> <a href="#EP"> Execute the program </a> </li> </ul>
 
-<h2 id="RQ"> Requeriments </h2>
+<h2 id="RQ"> Requirements </h2>
 <p> This script runs on Debian GNU/Linux systems and
     you must be install pip3 and Tkinter. </p>
 <p> Type this: </p>
